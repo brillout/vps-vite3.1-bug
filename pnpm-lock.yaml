@@ -14,7 +14,7 @@ specifiers:
   ts-node: ^10.7.0
   typescript: ^4.6.4
   vite: 3.0.9
-  vite-plugin-ssr: ^0.4.36
+  vite-plugin-ssr: ^0.4.38
   vue: ^3.2.33
 
 dependencies:
@@ -31,7 +31,7 @@ dependencies:
   ts-node: 10.9.1_rb7lfb2dlgdf5f7m6mcvvespxa
   typescript: 4.8.3
   vite: 3.0.9
-  vite-plugin-ssr: 0.4.36_vite@3.0.9
+  vite-plugin-ssr: 0.4.38_vite@3.0.9
   vue: 3.2.39
 
 packages:
@@ -1360,8 +1360,8 @@ packages:
     engines: {node: '>= 0.8'}
     dev: false
 
-  /vite-plugin-ssr/0.4.36_vite@3.0.9:
-    resolution: {integrity: sha512-FvecIDqYdsQGnP1JzWosZFJHBSGn4sdGFytJ9TOwtmZ0DP3mmCRR3+sjSjaEsmxAHgycQYaDAsX0x569+3HWAw==}
+  /vite-plugin-ssr/0.4.38_vite@3.0.9:
+    resolution: {integrity: sha512-gwbbN3AkcvkevsTCbBHzjbW2EkluCxK/0ZTirh65K9VDeoKb/bW2eB0sG65qUm3CPcSDK4mJlXa6Q0wPhmHiWA==}
     engines: {node: '>=12.19.0'}
     hasBin: true
     peerDependencies:
